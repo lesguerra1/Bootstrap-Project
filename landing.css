@@ -1,0 +1,12 @@
+.top {
+    color: rgb(32, 80, 26);
+}
+
+.hero {
+    background-image: url("assets/heroImage.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 640px;
+    margin-top: 40px;
+}
+
